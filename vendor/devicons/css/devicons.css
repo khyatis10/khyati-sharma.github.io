@@ -785,3 +785,6 @@
 .devicons-vim:before {
   content: "\e6c5";
 }
+.devicons-apacheairflow-original:before {
+  content: "\e6c6";
+}
