@@ -218,7 +218,7 @@ $devicons:	(git "\e602"),
 			(scriptcs "\e6bc"),
 			(sqllite "\e6c4"),
 			(vim "\e6c5"),
-			(apacheairflow "\e6c6");
+			(apacheairflow-original "\e6c6");
 
 @each $devicon in $devicons {
 	  $iconClass: nth($devicon, 1);
