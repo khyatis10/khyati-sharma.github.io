@@ -785,6 +785,9 @@
 .devicons-vim:before {
   content: "\e6c5";
 }
-.devicons-apacheairflow-original:before {
+.devicons-apacheairflow-plain:before {
   content: "\e6c6";
+}
+.devicons-amazonwebservices-plain-wordmark:before {
+  content: "\e6c7";
 }
